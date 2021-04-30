@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Plextora
+- 👋 Hi, I’m Sam!
 - 👀 I’m interested in C#, Python and GDScript!
 - 🌱 I’m currently learning GDScript
 - 📫 You can send a message to my discord if you want to reach me! Plextora#0033
