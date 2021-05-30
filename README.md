@@ -2,7 +2,7 @@
 
 # ![Plextora's GitHub stats](https://github-readme-stats.vercel.app/api?username=plextora&show_icons=true&theme=radical)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plextora)](https://github.com/anuraghazra/github-readme-stats)
-# [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Plextora)](https://github.com/anuraghazra/github-readme-stats)
+# ![Plextora's Coding Stats](https://i.imgur.com/4tppAAl.png)
 
 
 # [![trophy](https://github-profile-trophy.vercel.app/?username=plextora&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
