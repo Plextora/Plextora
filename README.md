@@ -1,6 +1,8 @@
 # [![Header](https://img.itch.zone/aW1nLzU1MDEzMjYuanBn/original/sm0cBk.jpg)](https://plextora.github.io/Web-Page/)
 
 # ![Plextora's GitHub stats](https://github-readme-stats.vercel.app/api?username=plextora&show_icons=true&theme=radical)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plextora)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # [![trophy](https://github-profile-trophy.vercel.app/?username=plextora&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
