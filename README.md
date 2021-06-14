@@ -1,4 +1,4 @@
-# [![Header](https://i.imgur.com/cDCxcJ3.png)](https://plextora.github.io/Web-Page/)
+# [![Header](https://i.imgur.com/iHrFyEq.png)](https://plextora.github.io/Web-Page/)
 
 # My GitHub Stats:
 # ![Plextora's GitHub stats](https://github-readme-stats.vercel.app/api?username=plextora&show_icons=true&theme=radical)
